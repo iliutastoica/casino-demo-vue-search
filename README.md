@@ -1,3 +1,5 @@
+<a href="https://casino-demo-vue.netlify.com/">Live Version</a>
+
 <p align="center">
 <a target="blank" href="https://cli.vuejs.org/guide/">
 <img src="src/assets/logo.png" alt="VUE CLI" width="50" ></a>
