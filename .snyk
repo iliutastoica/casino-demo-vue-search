@@ -6,3 +6,13 @@ patch:
   SNYK-JS-LODASH-450202:
     - webpack-dev-server > http-proxy-middleware > lodash:
         patched: '2019-09-07T17:49:45.310Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-09-07T17:51:28.070Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-09-07T17:51:28.070Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-09-07T17:51:28.070Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-09-07T17:51:28.070Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-09-07T17:51:28.070Z'
